@@ -1,0 +1,24 @@
+
+dependencies:
+  fluter:
+    sdk: flutter
+
+cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+  sdk: flutter
+
+uses-material-desing: true
+
+assets:
+  - assets/images/
+  - assets/sounds/
+
+
+fonts: 
+  - family: Cera Pro
+    fonts:
+      - asset: assets/fonts/Cera-Pro-Bold.otf
+      - asset: assets/fonts/Cera-Pro-Medium.otf
+        style: italic
